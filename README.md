@@ -11,7 +11,7 @@
 | 1 | **Nakshathira** | `PES2UG24AM096` |
 | 2 | **Sharanya N** | `PES2UG24AM150` |
 | 3 | **Poojitha P** | `PES2UG24AM112` |
-| 4 | **Rahul Rajkumar S** | `PES2UG24AM128` |
+| 4 | **Ragul Rajkumar S** | `PES2UG24AM128` |
 
 ---
 
